@@ -1,1 +1,2 @@
 cats_and_dogs_filtered filter=lfs diff=lfs merge=lfs -text
+cats filter=lfs diff=lfs merge=lfs -text
